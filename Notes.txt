@@ -1,0 +1,75 @@
+Here you go for *Tap Ball Game* Play Store listing 👇
+
+### *1. App Details*
+Field | Value
+**App Name** | Tap Ball Game
+**Package Name** | `fulie.naf.tap_ball_game`
+**Category** | Arcade, Casual, Action
+To set the package name run this once:
+flutter pub run change_app_package_name:main com.tapball.game
+### *2. Short Description - 80 characters*
+Tap the ball as fast as you can! Beat your high score in 5 seconds.
+
+### *3. Long Description - 4000 characters*
+*Tap Ball Game - Test Your Reflexes!*
+
+Think you have fast reflexes? Prove it in Tap Ball Game!
+
+Tap the red ball before time runs out. Each successful tap gives you more time and makes the ball smaller and faster. How long can you survive?
+
+*Game Features:*
+- Simple 1-tap gameplay - easy to learn, hard to master
+- Fast-paced arcade action with increasing difficulty
+- Beautiful gradient background and particle effects
+- Track your high score and challenge friends
+- No internet required - play offline anytime
+- Small size, smooth 60fps gameplay
+
+*How to Play:*
+1.  Tap `Tap to Start` on the welcome screen
+2.  A red ball will appear. Tap it as fast as possible!
+3.  Every tap gives you 5 seconds back and makes the ball smaller
+4.  Miss the timer and it's GAME OVER
+5.  Try to beat your high score!
+
+Perfect for killing time and training your reaction speed. Can you reach 50 taps?
+
+Download Tap Ball Game now and become the reflex master!
+
+### *4. How to Play - for Play Store "Gameplay Instructions"*
+1.  Open the game and tap `Tap to Start`
+2.  Tap the red ball when it appears on screen
+3.  Each tap resets the timer to 5.0 seconds
+4.  The ball gets smaller and moves faster with every score
+5.  If the timer reaches 0, the game ends
+6.  Tap `Tap to Restart` to play again and beat your score
+
+### *5. Permissions Needed*
+*None* ✅
+Tap Ball Game does not require any permissions. It works 100% offline and does not collect any data.
+
+### *6. Privacy Policy Link*
+Since you have no data collection, you still need a policy for Play Store.
+
+Use this free generator and host it: `https://www.privacypolicygenerator.info/`
+
+Example link you can use for now:
+`https://tapballgame.github.io/privacy-policy.html`
+
+*Sample Privacy Policy Text:*
+Privacy Policy for Tap Ball Game
+
+Tap Ball Game does not collect, store, or share any personal information. 
+The game works completely offline and requires no internet permission.
+No ads, no analytics, no data tracking.
+
+Contact: your_email@gmail.com
+Last Updated: 14 September 2026
+---
+
+### *Final Checklist before upload*
+1.  Run: `flutter build appbundle --release`
+2.  VersionCode: `version: 1.0.0+1` → increase to `+2` next time
+3.  Icon: Make sure `flutter pub run flutter_launcher_icons` was run with `logo.png`
+
+Want me to generate a full privacy policy page HTML for you to host?
